@@ -75,24 +75,6 @@ I specialize in building scalable automation frameworks using Selenium WebDriver
 - Data-Driven Testing
 - Defect Tracking and Reporting
 
----
-
-## 🚀 Featured Repositories
-
-### Selenium Automation Framework
-Automation framework built using Java, Selenium, TestNG, Maven, and POM architecture.
-
-### OrangeHRM Automation
-End-to-end automation of HR workflows using Selenium WebDriver.
-
-### API Testing Collection
-Postman collections covering authentication, CRUD operations, and API validations.
-
-### SQL Interview Practice
-Real-time SQL queries and interview questions.
-
-### Java Automation Utilities
-Common Selenium utilities including screenshots, waits, logging, and reusable components.
 
 ---
 
